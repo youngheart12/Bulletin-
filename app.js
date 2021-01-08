@@ -160,6 +160,7 @@ const dragDrop = (event) => {
     updateState(prevState,nextState)
 
 }
+//update state 
 const  updateState= (prevState,nextState) => {
    
     let updatedState = localState; 
