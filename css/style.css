@@ -221,7 +221,7 @@ body {
 }
 #infos .infos-company {
   font-family: 'Lato';
-  font-style: italic;
+ 
   font-size: 16px;
   line-height: 19px;
   color: #AAACAF;
@@ -347,4 +347,7 @@ body {
 }
 .invisible {
   display: none;
+}
+.userImg{
+  border-radius: 4px;
 }
